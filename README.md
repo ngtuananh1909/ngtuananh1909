@@ -34,12 +34,6 @@ I'm constantly learning new technologies and love diving deep into the world of 
 
 ---
 
-### 📈 GitHub Stats
-
-![Tuan Anh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ngtuananh1909&show_icons=true&theme=radium)
-
----
-
 ### 📫 Let's Connect!
 
 - 🌐 **Portfolio & About Me:** [ngtuananh1909.github.io/about-me](https://ngtuananh1909.github.io/about-me/)
