@@ -29,7 +29,7 @@ I'm constantly learning new technologies and love diving deep into the world of 
 
 **Environment & Tools:**
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
@@ -44,4 +44,3 @@ I'm constantly learning new technologies and love diving deep into the world of 
 
 - 🌐 **Portfolio & About Me:** [ngtuananh1909.github.io/about-me](https://ngtuananh1909.github.io/about-me/)
 - 📧 **Email:** [tuananh190907@gmail.com](mailto:tuananh190907@gmail.com)
-- 💬 **Discord:** [Connect with me](https://discord.com/users/1212307451991433218)
