@@ -4,7 +4,7 @@
 
 ### Software Engineer • Competitive Programmer • Linux Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=750&lines=Information+Technology+Student+at+TDTU;Building+Software+%26+Solving+Problems;Competitive+Programming+Enthusiast;Arch+Linux+%2B+Open+Source+Explorer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=750&lines=Software+Engineer+Student+at+TDTU;Building+Software+%26+Solving+Problems;Competitive+Programming+Enthusiast;Arch+Linux+%2B+Open+Source+Explorer" />
 
 </div>
 
@@ -13,7 +13,7 @@
 
 ## 👨‍💻 About Me
 
-I'm an **Information Technology student at Ton Duc Thang University (TDTU)** passionate about software engineering, algorithms, and system optimization.
+I'm an **Software Engineer student at Ton Duc Thang University** passionate about software engineering, algorithms, and system optimization.
 
 I enjoy building practical applications, solving complex problems, and exploring how software works from different layers — from efficient algorithms to operating systems.
 
@@ -232,7 +232,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngtuananh190
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
 </a>
 
-<a href="mailto:tuananh190907@gmail.com">
+<a href="mailto:nta1909k7@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
