@@ -209,14 +209,15 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngtuananh190
 
 ---
 
-# 🏆 GitHub Trophy
+# 🧩 LeetCode Statistics
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ngtuananh1909&theme=algolia&no-frame=true&column=4" />
+<a href="https://leetcode.com/u/nta1909k7/">
+  <img src="https://leetcard.jacoblin.cool/nta1909k7?theme=dark&font=Fira+Code&ext=contest" alt="LeetCode Stats" />
+</a>
 
 </div>
-
 
 ---
 
